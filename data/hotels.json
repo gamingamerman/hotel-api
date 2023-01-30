@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Paradise Club",
+        "postal_code": 39034,
+        "address": "Calle Cruz 2º Las Palmas",
+        "company": "Paradise",
+        "dates": {
+            "inaugurated": 1989,
+            "last_cleanup": 2022
+        },
+        "n_clients": 200
+    },
+    {
+        "id": 2,
+        "name": "Regency Resort",
+        "postal_code": 45565,
+        "address": "Calle La Paz",
+        "company": "Los Urjos",
+        "dates": {
+            "inaugurated": 1985,
+            "last_cleanup": 2019
+        },
+        "n_clients": 150
+    },
+    {
+        "id": 3,
+        "name": "Hotel H10",
+        "postal_code": 10045,
+        "address": "Calle Manantial de Maria 1º",
+        "company": "DeepWeb",
+        "dates": {
+            "inaugurated": 1990,
+            "last_cleanup": 2023
+        },
+        "n_clients": 220
+    },
+    {
+        "id": 4,
+        "name": "Trivago",
+        "postal_code": 12550,
+        "address": "Avenida Santa Cruz",
+        "company": "",
+        "dates": {
+            "inaugurated": 2000,
+            "last_cleanup": 2009
+        },
+        "n_clients": 90
+    },
+    {
+        "id": 5,
+        "name": "Las Vegas Residencial",
+        "postal_code": 3904,
+        "address": "Calle Cruz de la Señora Sta. Fé",
+        "company": "MarsComp",
+        "dates": {
+            "inaugurated": 2009,
+            "last_cleanup": 2023
+        },
+        "n_clients": 200
+    }
+]
